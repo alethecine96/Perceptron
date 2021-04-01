@@ -7,7 +7,7 @@ Organizzazione dell'elaborato
 
 L'elaborato si articola in unico file:
 
-houseNumberTest: In questo file viene riformattato il dataset per far sì che sia compatibile con l'input richiesto dal perceptron e implementati i test. 
+  -houseNumberTest: In questo file viene riformattato il dataset per far sì che sia compatibile con l'input richiesto dal perceptron e implementati i test. 
 
 Riproduzione dei risultati
 
